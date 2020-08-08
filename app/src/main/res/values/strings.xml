@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">simpleAddition</string>
+    <string name="fno">first number</string>
+    <string name="sno">second number</string>
+    <string name="add">ADD</string>
+    <string name="num1">int</string>
+    <string name="num2">int</string>
+</resources>
